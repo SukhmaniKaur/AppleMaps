@@ -12,7 +12,7 @@ class MapVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        //Testing
+        //Testin
         // Do any additional setup after loading the view.
     }
 
